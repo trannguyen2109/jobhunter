@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Backend_Resful_API"
+		},
+		{
+			"path": "../../../../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.format.settings.url": ".vscode/java-formatter.xml"
+	}
+}
